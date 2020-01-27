@@ -12,7 +12,7 @@ from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 
-#submitting this code just to show work, i finished it last minute and dint get time to comment it well, so please grade my other code. thank you
+
 logging.basicConfig(level='INFO')
 
 NUM_WORDS = 70
